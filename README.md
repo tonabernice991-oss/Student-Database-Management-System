@@ -44,3 +44,37 @@ using proper database design principles.
 3.Comparison with other models such as hierarchical and network models: while hierarchical and network models were efficient for specific, predictable access patterns in early computing (e.g., bill-of-materials in manufacturing), they lack the relational model's simplicity and versatility. For student data, which often requires frequent, unpredictable queries and schema evolution, the relational model is far superior, explaining its dominance in modern database systems. If student data involves big data or unstructured elements (e.g., social media feeds), newer NoSQL models like document or graph databases might complement relational ones in hybrid setups.
 
 4. Enties ate "student" and "departments" this means these are the tables will we have in our database. Their relationship is that a certain student enters a certain department in a certain year so we will combine all these."student"and "departments" will have attributes meaning columns.
+
+5. Normalisation:This process eliminates data redundancy and ensures data integrity by dividing data into multiple related tables (e.g., first normal form requires atomic values, second normal form eliminates partial dependencies).
+
+😉Tasks that will be done in this databases are:
+
+Write SQL queries to:
+
+1. Create the database student_db.
+
+2. Create the Departments table.
+
+3. Create the Students table with appropriate primary and foreign keys.
+
+4. Insert the provided sample data into both tables.
+
+5. Retrieve all students from a specific department.
+
+6. Update the department of a student using student_id.
+
+7. Delete a student record using student_id.
+
+👉here are the steps and ways to do so click here:https://1drv.ms/w/c/c6767e1f5b535938/IQCRI8xsTB2TR5xKnIUHn4kUAVt4qkUfzOA2akQn4O2Md_Q?e=RajOPe
+
+🧠**Skills You Will Gain**
+After completing this project, students will gain:
+. Strong understanding of relational databases
+. Ability to design ER diagrams
+. Knowledge of database normalization (up to 3NF)
+. Practical MySQL and SQL querying skills
+. Experience organizing and documenting projects on GitHub
+. Confidence in solving real-life data management problems
+
+🧕**Author:Tona**
+**THANK YOU**
