@@ -68,7 +68,9 @@ Write SQL queries to:
 👉here are the steps and ways to do so click here:https://1drv.ms/w/c/c6767e1f5b535938/IQCRI8xsTB2TR5xKnIUHn4kUAVt4qkUfzOA2akQn4O2Md_Q?e=RajOPe
 
 🧠**Skills You Will Gain**
+
 After completing this project, students will gain:
+
 . Strong understanding of relational databases
 . Ability to design ER diagrams
 . Knowledge of database normalization (up to 3NF)
