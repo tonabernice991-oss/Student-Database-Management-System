@@ -72,10 +72,15 @@ Write SQL queries to:
 After completing this project, students will gain:
 
 . Strong understanding of relational databases
+
 . Ability to design ER diagrams
+
 . Knowledge of database normalization (up to 3NF)
+
 . Practical MySQL and SQL querying skills
+
 . Experience organizing and documenting projects on GitHub
+
 . Confidence in solving real-life data management problems
 
 🧕**Author:Tona**
