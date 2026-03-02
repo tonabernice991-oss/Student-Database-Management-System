@@ -12,10 +12,13 @@ store, manage, and retrieve student data efficiently
 .ER Diagram Tool (Draw.io or Lucidchart)
 
 👉**Here is an example of a database:**
+
 👾Problem Statement
+
 Educational institutions need a reliable way to store and manage student information such 
 as personal details, enrollment data, and academic programs.
 Without a structured database system, institutions face challenges such as:
+
 .Duplicate student records
 .Difficulty updating student information
 .Poor data organization
@@ -25,6 +28,9 @@ The goal of this project is to design a well-structured database that solves the
 using proper database design principles.
 
 🔐Key terms to know before going deep:
+
 1. Database model:The relational database model is a way of organizing and storing data in a database using tables (also called relations) that consist of rows (tuples or records) and columns (attributes).
-2. why it is suitable for managing data:non-relational models might struggle with the dynamic, interconnected nature of student data, leading to inefficiencies in querying or updates whic is why to better use relational.
-   Comparison with other models such as hierarchical and network models: while hierarchical and network models were efficient for specific, predictable access patterns in early computing (e.g., bill-of-materials in manufacturing), they lack the relational model's simplicity and versatility. For student data, which often requires frequent, unpredictable queries and schema evolution, the relational model is far superior, explaining its dominance in modern database systems. If student data involves big data or unstructured elements (e.g., social media feeds), newer NoSQL models like document or graph databases might complement relational ones in hybrid setups.
+
+3. why it is suitable for managing data:non-relational models might struggle with the dynamic, interconnected nature of student data, leading to inefficiencies in querying or updates whic is why to better use relational.
+
+4.Comparison with other models such as hierarchical and network models: while hierarchical and network models were efficient for specific, predictable access patterns in early computing (e.g., bill-of-materials in manufacturing), they lack the relational model's simplicity and versatility. For student data, which often requires frequent, unpredictable queries and schema evolution, the relational model is far superior, explaining its dominance in modern database systems. If student data involves big data or unstructured elements (e.g., social media feeds), newer NoSQL models like document or graph databases might complement relational ones in hybrid setups.
